@@ -13,3 +13,7 @@ collected in 2018 for approximately 10 months in two locations: Serengeti Nation
 blood and feather samples were prepared for a CNS run at SUERC on an Elementar Analyser using internal & external standards. Stable isotope data were organized into .csv
 files that were imported into R for analyses.
 
+**R script & .csv files**:
+
+**
+
