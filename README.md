@@ -8,3 +8,8 @@ in delineating poisoning susceptibility/hotspots for the species. Knowledge of s
 recommended and are NOT covered in analysis workflow. Knowledge of R, and R packages such as SIDER https://doi.org/10.1111/ecog.03371, MixSIAR (manual uploaded) is 
 highly recommended.
 
+**Data description**: Biological samples from Gyps vultures (blood & feathers), muscle tissue from opportunistically sampled ungulates and other meta data data were 
+collected in 2018 for approximately 10 months in two locations: Serengeti National Park and Julius Nyerere National Park formerly (Selous game reserve). Muscle tissue, 
+blood and feather samples were prepared for a CNS run at SUERC on an Elementar Analyser using internal & external standards. Stable isotope data were organized into .csv
+files that were imported into R for analyses.
+
