@@ -13,6 +13,6 @@ collected in 2018 for approximately 10 months in two locations: Serengeti Nation
 blood and feather samples were prepared for a CNS run at SUERC on an Elementar Analyser using internal & external standards. Stable isotope data were organized into .csv
 files that were imported into R for analyses.
 
-**R script & .csv files**: R script - vulture_diet_analysis.R comprises the annotated 'how' to arrive at conclusions within the published article and data files: bf_iso_data.csv, Biomass_SER.csv, Biomass_SGR.csv, V.sources.csv, AR.blood.csv, sources.csv, AR.blood.discr.csv, AR.feathers.csv, AR.feathers.discr.csv provide the raw data.    
+**R script & .csv files**: R script - vulture_diet_analysis.R comprises the annotated 'how' to arrive at conclusions within the published article, data files to run script: bf_iso_data.csv, Biomass_SER.csv, Biomass_SGR.csv, V.sources.csv, AR.blood.csv, sources.csv, AR.blood.discr.csv, AR.feathers.csv, AR.feathers.discr.csv provide the raw data.    
 
 **END**
