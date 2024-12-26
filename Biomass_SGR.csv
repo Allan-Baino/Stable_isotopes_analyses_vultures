@@ -1,0 +1,26 @@
+﻿species ,count,weight,mortality.rate,biomass,age,forage.category
+wildebeest,919,290,0.12,31981.2,adult,grazer
+zebra,800,350,0.12,33600,adult,grazer
+thomson gz,0,0,0.2,0,adult,grazer
+grant gz,0,0,0.1,0,adult,grazer
+topi,0,0,0.1,0,adult,grazer
+hartebeest,851,155,0.1,13190.5,adult,grazer
+impala,543,75,0.1,4072.5,adult,mixed-feeder
+waterbuck,0,0,0.1,0,adult,grazer
+warthog,320,150,0.6,28800,adult,grazer
+buffalo,2678,751,0.06,120670.68,adult,grazer
+giraffe,55,1192,0.07,4589.2,adult,browser
+elephant,646,6000,0.02,77520,adult,mixed-feeder
+eland,154,942,0.1,14506.8,adult,mixed-feeder
+reedbuck,210,68,0.01,142.8,adult,grazer
+kilpspringer,0,0,0.01,0,adult,browser
+dik dik,1,5,0.01,0.05,adult,browser
+steinbuck,0,0,0.01,0,adult,grazer
+hippo,1659,4500,0.02,149310,adult,grazer
+duiker,167,12,0.01,20.04,adult,browser
+sable antelope,166,150,0.01,249,adult,grazer
+greater kudu,30,400,0.1,1200,adult,grazer
+puku,0,0,0.01,0,adult,grazer
+bushpig,18,150,0.01,27,adult,grazer
+bushbuck,9,50,0.01,4.5,adult,grazer
+wildpig,8,150,0.01,12,adult,grazer
