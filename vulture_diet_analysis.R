@@ -1382,7 +1382,7 @@ plot_prior(alpha.prior = 1, ARf.sources)
 
 #'JAGS model
 #'set parameters for JAGS model
-model_filename<-"MixSIAR_model2.txt"
+model_filename2<-"MixSIAR_model.txt"
 resid_err<- T
 process_err<- F
 write_JAGS_model(model_filename, resid_err, process_err, ARf.mix, ARf.sources)
@@ -1391,7 +1391,7 @@ write_JAGS_model(model_filename, resid_err, process_err, ARf.mix, ARf.sources)
 #'specify MCMC parameters for model
 #'we desired the 'long' setting, chainlength = 300,000, Burnin = 200,000,
 #'sample thin = 100, chains = 3
-jags.2<-run_model(run = "long", ARf.mix, ARf.sources, ARf.discr, model_filename,
+jags.2<-run_model(run = "long", ARf.mix, ARf.sources, ARf.discr, model_filename2,
                   alpha.prior = 1, resid_err, process_err)
 #'specify outputs from jags model
 output_options2<-list(summary_save = T,
